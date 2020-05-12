@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.0181694444444444,Order.270,BatchOrders,18.OnEnteredParentInputBuffer,[Transfer] ToProcessing,Error initiating transfer of entity 'Order.270'. The entity's current location '[FreeSpace] Model' is invalid for attempting the specified transfer request.
+0.0181694444444444,Order.270,BatchOrders,18.OnEnteredParentInputBuffer,[Transfer] ToProcessing,"For possible causes, check whether the 'FromType' property of the Transfer step is misspecified."
+
